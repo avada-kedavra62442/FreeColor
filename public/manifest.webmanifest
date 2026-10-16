@@ -1,1 +1,24 @@
-{"name":"FreeColor — Color Intelligence","short_name":"FreeColor","start_url":"/","display":"standalone","background_color":"#07110e","theme_color":"#07110e","icons":[{"src":"/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "FreeColor — Color Intelligence",
+  "short_name": "FreeColor",
+  "description": "A free color intelligence studio for palettes, contrast, gradients and design tokens.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#07110e",
+  "theme_color": "#07110e",
+  "categories": [
+    "design",
+    "productivity",
+    "developer"
+  ],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
